@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "めにしゅき♡ラッシュっしゅ！",
+  "base_artist": "カレンチャン (CV. 篠原 侑)、スティルインラブ (CV. 宮下早紀)、フサイチパンドラ (CV. 佳原萌枝)、アドマイヤグルーヴ (CV. 鈴木日菜)、ラッキーライラック (CV. 中島由貴)、ラヴズオンリーユー (CV. 久保田未夢)、ステイゴールド (CV. 松田颯水)",
+  "createdAt": "2025-12-05T15:05:35.210017Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "めにしゅき♡ラッシュっしゅ！(Short Version)",
+      "artist": "Curren Chan (CV: Yu Sasahara), Still in Love (CV: Saki Miyashita), Fusaichi Pandora (CV: Moe Kahara), Admire Groove (CV: Hina Suzuki), Lucky Lilac (CV: Yuki Nakashima), Loves Only You (CV: Miyu Kubota), Stay Gold (CV: Satsumi Matsuda)",
+      "has_synced": true,
+      "path": "select/01_めにしゅき♡ラッシュっしゅ!(Short_Version)_Curren_Chan_(CV__Yu_Sasahara),_Still_in_Love_(CV__Saki_Miyashita),_Fusaichi_Pand.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "めにしゅき♡ラッシュっしゅ!",
+      "artist": "カレンチャン (CV. 篠原 侑),スティルインラブ (CV. 宮下早紀),フサイチパンドラ (CV. 佳原萌枝),アドマイヤグルーヴ (CV. 鈴木日菜),ラッキーライラック (CV. 中島由貴),ラヴズオンリーユー (CV. 久保田未夢),ステイゴールド (CV. 松田颯水)",
+      "has_synced": false,
+      "path": "select/pl_01_めにしゅき♡ラッシュっしゅ!_カレンチャン_(CV._篠原_侑),スティルインラブ_(CV._宮下早紀),フサイチパンドラ_(CV._佳原萌枝),アドマイヤグルーヴ_(CV._鈴木日菜),ラ.txt"
+    }
+  ]
+}
